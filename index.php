@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
+        <meta name="description" content="Clark Hulings Foundation Presentation" />
+        <meta name="author" content="Clark Hulings Foundation" />
         <title>Clark Hulings Foundation Presentation</title>
         <link rel="preload" as="image" href="slide1.png">
         <link rel="preload" as="image" href="slide2.png">
@@ -18,8 +18,19 @@
             img {
                 border-radius: 10px;
                 padding: 3px 0;
+            }    
+            .thumb {
+                border: 4px solid #6d7072;
+                border-radius: 4px;
+                padding: 1px;
             }
-           
+            .box:hover .thumb {
+                opacity: 0.8;
+                border: 4px solid #00534c;
+                border-radius: 4px;
+                padding: 1px;
+              }
+   
         </style>
     </head>
     <body  class="bg-dark">
@@ -40,25 +51,25 @@
          <!-- Content section-->
          <section class="py-1">
         <div class="container">
-          <div class="row">
-            <div class="col">
-                <h1 class="text-white fs-3 fw-bolder text-center">Clark Hurlings Art Work</h1>
-                <p class="text-white-50 mb-0 text-center">Click to Experience</p>
+          <div class="row my-2">
+            <div class="col py-2">
+                <h1 class="text-white fs-3 fw-bolder text-center">The Vision for 100 and Beyond</h1>
+                <p class="text-white-50 mb-0 text-center">Virtual Examples</p>
             </div>
         </div>
           <div class="row">
-            <div class="col-sm">
-              <a href="../chf4/woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid" /></a>
+            <div class="col-sm box">
+              <a href="woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid thumb" /></a>
             </div>
-            <div class="col-sm">
-             <a href="../chf4/pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid" /></a>
+            <div class="col-sm box">
+             <a href="pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid thumb" /></a>
             </div>
         
-            <div class="col-sm">
-            <a href="../chf4/soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid" /></a>
+            <div class="col-sm box">
+            <a href="soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid thumb" /></a>
             </div>
-            <div class="col-sm">
-            <a href="../chf4/cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid" /></a>
+            <div class="col-sm box">
+            <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" /></a>
             </div>
           </div>
         </div>
@@ -73,6 +84,7 @@
                         <img class="img-fluid" src="images/slide3.png" alt="Clark Hulings Foundation" />
                         <img class="img-fluid" src="images/slide4.png" alt="Clark Hulings Foundation" />    
                         <img class="img-fluid" src="images/slide5.png" alt="Clark Hulings Foundation" />    
+                        <img class="img-fluid" src="images/slide5a.png" alt="Clark Hulings Foundation" />    
                         <a href="https://www.youtube.com/watch?v=fwMU5hU6kjk&t=6s" target="_blank"><img class="img-fluid" src="images/slide5b.png" alt="Clark Hulings Foundation" /> </a>
                         <img class="img-fluid" src="images/slide8.png" alt="Clark Hulings Foundation" />       
                         <img class="img-fluid" src="images/slide11.png" alt="Clark Hulings Foundation" />    
