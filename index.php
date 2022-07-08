@@ -23,6 +23,7 @@
                 border: 4px solid #6d7072;
                 border-radius: 4px;
                 padding: 1px;
+
             }
             .box:hover .thumb {
                 opacity: 0.8;
@@ -58,17 +59,17 @@
             </div>
         </div>
           <div class="row">
-            <div class="col-sm box">
+            <div class="col-sm box py-1">
               <a href="woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid thumb" /></a>
             </div>
-            <div class="col-sm box">
+            <div class="col-sm box py-1">
              <a href="pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid thumb" /></a>
             </div>
         
-            <div class="col-sm box">
+            <div class="col-sm box py-1">
             <a href="soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid thumb" /></a>
             </div>
-            <div class="col-sm box">
+            <div class="col-sm box py-1">
             <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" /></a>
             </div>
           </div>
