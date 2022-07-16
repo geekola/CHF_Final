@@ -60,17 +60,21 @@
         </div>
           <div class="row">
             <div class="col-sm box py-1">
-              <a href="woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid thumb" /></a>
+              <a href="woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid thumb" alt="Woodbearers" title="Woodbearers"/></a>
+              <figcaption class="figure-caption text-center">Woodbearers - Need Location</figcaption>
             </div>
             <div class="col-sm box py-1">
-             <a href="pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid thumb" /></a>
+             <a href="pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid thumb" alt="Pink Parasol" title="Pink Parasol"/></a>
+             <figcaption class="figure-caption text-center">Pink Parasol - Need Location</figcaption>
             </div>
         
             <div class="col-sm box py-1">
-            <a href="soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid thumb" /></a>
+            <a href="soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid thumb" alt="Soyalonga" title="Soyalonga"/></a>
+            <figcaption class="figure-caption text-center">Soyalonga - Need Location</figcaption>
             </div>
             <div class="col-sm box py-1">
-            <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" /></a>
+            <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" alt="Cart" title="Cart"/></a>
+            <figcaption class="figure-caption text-center">Cart - Need Location</figcaption>
             </div>
           </div>
         </div>
