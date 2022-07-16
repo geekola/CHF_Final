@@ -55,6 +55,7 @@
           <div class="row my-2">
             <div class="col py-2">
                 <h1 class="text-white fs-3 fw-bolder text-center">The Vision for 100 and Beyond</h1>
+                <p class="text-white lead mb-0 text-center">Need Introduction Paragraph</p>
                 <p class="text-white-50 mb-0 text-center">Virtual Examples</p>
             </div>
         </div>
