@@ -55,27 +55,26 @@
           <div class="row my-2">
             <div class="col py-2">
                 <h1 class="text-white fs-3 fw-bolder text-center">The Vision for 100 and Beyond</h1>
-                <p class="text-white lead mb-0 text-center">Need Introduction Paragraph</p>
-                <p class="text-white-50 mb-0 text-center">Virtual Examples</p>
+                <p class="text-white-50 mb-0 text-center">These 4 images show examples of 3D Action Effects. Click each to open in a new tab.</p>
             </div>
         </div>
           <div class="row">
             <div class="col-sm box py-1">
               <a href="woodbearers.html" target="_blank"><img src="images/bg-woodbearers-footer.png" width="100%" class="img-fluid thumb" alt="Woodbearers" title="Woodbearers"/></a>
-              <figcaption class="figure-caption text-center">Woodbearers - Need Location</figcaption>
+              <figcaption class="figure-caption text-center">Woodbearers of Chimayo</figcaption>
             </div>
             <div class="col-sm box py-1">
              <a href="pinkparasol.html" target="_blank"><img src="images/pinkparasol.png" width="100%" class="img-fluid thumb" alt="Pink Parasol" title="Pink Parasol"/></a>
-             <figcaption class="figure-caption text-center">Pink Parasol - Need Location</figcaption>
+             <figcaption class="figure-caption text-center">The Pink Parasol, Etla, Mexico</figcaption>
             </div>
         
             <div class="col-sm box py-1">
             <a href="soyalonga.html" target="_blank"><img src="images/soyalonga.png" width="100%" class="img-fluid thumb" alt="Soyalonga" title="Soyalonga"/></a>
-            <figcaption class="figure-caption text-center">Soyalonga - Need Location</figcaption>
+            <figcaption class="figure-caption text-center">Soyalonga, Spain</figcaption>
             </div>
             <div class="col-sm box py-1">
             <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" alt="Cart" title="Cart"/></a>
-            <figcaption class="figure-caption text-center">Cart - Need Location</figcaption>
+            <figcaption class="figure-caption text-center">Quarry Cart, Mersin, Turkey</figcaption>
             </div>
           </div>
         </div>
