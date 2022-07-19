@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Clark Hulings Foundation Presentation" />
-        <meta name="author" content="Clark Hulings Foundation" />
-        <title>Clark Hulings Foundation Presentation</title>
+        <meta name="description" content="The Clark Hulings Foundation - Presentation" />
+        <meta name="author" content="The Clark Hulings Foundation" />
+        <title>The Clark Hulings Foundation - Presentation</title>
         <link rel="preload" as="image" href="slide1.png">
         <link rel="preload" as="image" href="slide2.png">
         <link rel="preload" as="image" href="slide3.png">                
@@ -38,11 +38,11 @@
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
-                <a class="navbar-brand" href="#!">Clark Hulings Foundation</a>
+                <a class="navbar-brand" href="#!">The Clark Hulings Foundation</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="https://www.clarkhulings.com" target="_blank">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="https://www.clarkhulingsfoundation.org" target="_blank">Contact</a></li>
                     </ul>
@@ -73,7 +73,7 @@
             <figcaption class="figure-caption text-center">Soyalonga, Spain</figcaption>
             </div>
             <div class="col-sm box py-1">
-            <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" alt="Cart" title="Cart"/></a>
+            <a href="cart.html" target="_blank"><img src="images/cart-footer.png" width="100%" class="img-fluid  thumb" alt="Quarry Cart" title="Quarry Cart"/></a>
             <figcaption class="figure-caption text-center">Quarry Cart, Mersin, Turkey</figcaption>
             </div>
           </div>
